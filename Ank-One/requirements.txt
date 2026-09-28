@@ -1,0 +1,139 @@
+# ===========================
+# Core Libraries
+# ===========================
+numpy
+pandas
+tqdm
+python-dotenv
+loguru
+
+# ===========================
+# Hugging Face
+# ===========================
+datasets
+huggingface_hub
+
+# ===========================
+# Machine Learning
+# ===========================
+scikit-learn
+
+# Data Science
+numpy
+pandas
+scipy
+statsmodels
+
+# Data Visualization
+matplotlib
+seaborn
+plotly
+
+# Machine Learning
+scikit-learn
+xgboost
+lightgbm
+catboost
+imbalanced-learn
+
+# Hyperparameter Tuning
+optuna
+
+# Deep Learning
+tensorflow
+keras
+
+# NLP
+nltk
+spacy
+transformers
+sentence-transformers
+tokenizers
+
+# Computer Vision
+opencv-python
+Pillow
+
+# Data Collection
+requests
+beautifulsoup4
+lxml
+selenium
+
+# Database
+sqlalchemy
+pymysql
+psycopg2-binary
+
+# Notebook
+jupyter
+ipykernel
+
+# Model Saving
+joblib
+pickle-mixin
+
+# Dashboard
+streamlit
+gradio
+
+# API
+fastapi
+uvicorn
+flask
+flask-cors
+
+# Environment Variables
+python-dotenv
+
+# Utilities
+tqdm
+rich
+colorama
+
+# PDF & Excel
+openpyxl
+xlsxwriter
+reportlab
+
+# Time Series
+prophet
+
+# Explainable AI
+shap
+lime
+
+# Image Processing
+scikit-image
+
+# Hugging Face
+datasets
+evaluate
+accelerate
+huggingface_hub
+
+# Generative AI
+langchain
+langchain-community
+langchain-core
+langchain-openai
+faiss-cpu
+chromadb
+
+# Google Gemini
+google-generativeai
+
+# OpenAI
+openai
+
+# Ollama
+ollama
+
+# Audio
+librosa
+
+# Web Scraping
+scrapy
+
+# Testing
+pytest

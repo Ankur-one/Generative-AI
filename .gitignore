@@ -1,0 +1,38 @@
+.env
+.venv/
+__pycache__/
+
+# Environment variables
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Hugging Face / ML caches
+.cache/
+huggingface_cache/
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+# Jupyter notebooks containing local experiments
+Untitled.ipynb
