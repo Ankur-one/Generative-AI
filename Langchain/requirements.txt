@@ -1,0 +1,49 @@
+langchain
+langchain_community
+langchain-openai
+langchain-groq
+python-dotenv
+langchain-google-genai
+
+# Core LangChain
+langchain
+langchain-core
+langchain-text-splitters
+langgraph
+
+# LLM providers
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+langchain-nvidia-ai-endpoints
+langchain-huggingface
+langchain-ollama
+
+# Embeddings and vector database
+sentence-transformers
+chromadb
+
+# Document processing
+pypdf
+docx2txt
+beautifulsoup4
+
+# Web search and API tools
+tavily-python
+requests
+
+# Environment configuration and data validation
+python-dotenv
+pydantic
+
+# User interface
+streamlit
+
+# Data analysis
+numpy
+pandas
+matplotlib
+
+# Testing and debugging
+pytest
+langsmith

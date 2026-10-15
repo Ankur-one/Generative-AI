@@ -1,0 +1,18 @@
+# MCP Server
+mcp
+
+# LangChain Core
+langchain
+langchain-core
+langchain-community
+
+# LangChain MCP Integration
+langchain-mcp-adapters
+langgraph
+
+# LLM Providers
+langchain-openai
+langchain-groq
+
+# Environment Variables
+python-dotenv

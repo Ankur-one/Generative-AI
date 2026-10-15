@@ -1,0 +1,31 @@
+
+# LangGraph and LangChain
+langgraph
+langchain
+langchain-core
+langchain-community
+
+# LLM providers - keep only providers used by your code
+langchain-groq
+langchain-openai
+langchain-google-genai
+langchain-mistralai
+langchain-huggingface
+langchain-nvidia-ai-endpoints
+langchain-tavily
+
+# Embeddings and RAG
+sentence-transformers
+chromadb
+
+# Search and external APIs
+tavily-python
+requests
+
+# Streamlit user interface
+streamlit
+
+# Environment variables and data validation
+python-dotenv
+pydantic
+typing-extensions
